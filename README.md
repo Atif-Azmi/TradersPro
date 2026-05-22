@@ -56,3 +56,5 @@ cd client && npm run dev
 
 ## UI Aesthetic
 Inspired by **DairyPro**, featuring a clean cream background, deep navy sidebar, and vibrant orange accents.
+
+## Setup Instructions
